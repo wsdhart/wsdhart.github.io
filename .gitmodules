@@ -1,3 +1,6 @@
 [submodule "webgl"]
 	path = webgl
 	url = https://github.com/wsdhart/webgl
+[submodule "ou/plotter"]
+	path = ou/plotter
+	url = https://github.com/wsdhart/plotter.git
